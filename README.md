@@ -117,7 +117,7 @@ The charts provide insights into customer behavior, product sales, payment metho
 
 ### 9. Average Price Sales
 
-![Average Price Sales]([./images/avg_price_sales_chart.png](https://drive.google.com/file/d/1jMAkCqwITCI-PmVOI3qT_1Ja_3t7_P6V/view?usp=sharing))
+![Average Price Sales](https://drive.google.com/uc?id=1jMAkCqwITCI-PmVOI3qT_1Ja_3t7_P6V)
 
 - **Insight:**
   - A pie chart divides average price sales into several segments:

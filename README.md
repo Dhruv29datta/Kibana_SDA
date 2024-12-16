@@ -104,9 +104,9 @@ The charts provide insights into customer behavior, product sales, payment metho
   - Sales are distributed evenly across major cities, indicating a balanced market presence.
   - However, the low contribution from "City" suggests untapped potential.
 
-### 8. Sale by Gender (Top Right - Second Image)
+### 8. Sale by Gender
 
-![Sale by Gender](./images/sale_by_gender_chart.png)
+![Sale by Gender](https://drive.google.com/uc?id=11BPW9F5a3TLAjhFl80lSuPlarTP2ec9E)
 
 - **Insight:**
   - This bar chart shows gender-based sales distribution.

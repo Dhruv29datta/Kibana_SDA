@@ -136,3 +136,13 @@ The Kibana charts provide valuable insights into customer behavior, product pref
 - Gender and average price sales indicate balanced performance across segments but suggest room for targeted marketing strategies.
 
 These insights can guide decision-making processes, helping businesses optimize sales, improve customer engagement, and enhance market penetration.
+
+
+---
+
+The video file containing the dashboard overview is provided below:
+
+[Click here to watch the video](https://drive.google.com/file/d/1zFV55OMmNb90-W9q3wholOg-g4hlU3t6/view?usp=sharing)
+
+
+
